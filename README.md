@@ -18,3 +18,6 @@ Kedua program akan terhubung ke AMQP yang sama.
 
 ![alt text](image-1.png)
 Terminal di kanan adalah *publisher* dan di kiri adalah *subscriber*. Ketika dijalankan `cargo run` pada *publisher*, program mengirimkan 5 event ke *message broker* lalu diproses oleh *subscriber*.
+
+![alt text](image-2.png)
+Ketika dijalankan `cargo run` pada publisher, publisher akan mengirimkan message. Chart kedua menunjukkan *message rate* sehingga ketika publisher mengirimkan message akan terbaca dan ditampilkan pada chart.
