@@ -1,0 +1,12 @@
+C:\Users\naren\sem4\tutorial8\tutorial8\subscriber\target\debug\deps\libsnafu-0fdfa53e54a0fec9.rmeta: C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\lib.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\backtrace_inert.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\once_bool.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\error_chain.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\Snafu.md C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.md C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\../README.md
+
+C:\Users\naren\sem4\tutorial8\tutorial8\subscriber\target\debug\deps\snafu-0fdfa53e54a0fec9.d: C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\lib.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\backtrace_inert.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\once_bool.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\error_chain.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\Snafu.md C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.md C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\../README.md
+
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\lib.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\backtrace_inert.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\once_bool.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\error_chain.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\Snafu.md:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.md:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\../README.md:

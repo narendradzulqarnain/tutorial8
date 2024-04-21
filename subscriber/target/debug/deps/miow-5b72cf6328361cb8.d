@@ -1,0 +1,12 @@
+C:\Users\naren\sem4\tutorial8\tutorial8\subscriber\target\debug\deps\libmiow-5b72cf6328361cb8.rmeta: C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\lib.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\handle.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\overlapped.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\iocp.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\net.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\pipe.rs
+
+C:\Users\naren\sem4\tutorial8\tutorial8\subscriber\target\debug\deps\libmiow-5b72cf6328361cb8.rlib: C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\lib.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\handle.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\overlapped.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\iocp.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\net.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\pipe.rs
+
+C:\Users\naren\sem4\tutorial8\tutorial8\subscriber\target\debug\deps\miow-5b72cf6328361cb8.d: C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\lib.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\handle.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\overlapped.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\iocp.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\net.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\pipe.rs
+
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\lib.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\handle.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\overlapped.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\iocp.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\net.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miow-0.2.2\src\pipe.rs:
