@@ -1,0 +1,13 @@
+C:\Users\naren\sem4\tutorial8\tutorial8\publisher\target\debug\deps\libamq_protocol_codegen-f64299934ae762c2.rmeta: C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\lib.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\internal.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\named.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\specs.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\templating.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\util.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0/specs/amqp-rabbitmq-0.9.1.json
+
+C:\Users\naren\sem4\tutorial8\tutorial8\publisher\target\debug\deps\amq_protocol_codegen-f64299934ae762c2.d: C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\lib.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\internal.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\named.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\specs.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\templating.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\util.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0/specs/amqp-rabbitmq-0.9.1.json
+
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\lib.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\internal.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\named.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\specs.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\templating.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0\src\util.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-codegen-1.4.0/specs/amqp-rabbitmq-0.9.1.json:
+
+# env-dep:CARGO_MANIFEST_DIR=C:\\Users\\naren\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\amq-protocol-codegen-1.4.0

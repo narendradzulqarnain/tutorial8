@@ -14,3 +14,4 @@ b. The url of: “amqp://guest:guest@localhost:5672” is the same as in the sub
 program, what does it mean?  
 Kedua program akan terhubung ke AMQP yang sama.
 
+![alt text](image.png)

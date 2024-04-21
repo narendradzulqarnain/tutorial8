@@ -1,0 +1,9 @@
+C:\Users\naren\sem4\tutorial8\tutorial8\publisher\target\debug\deps\libcrosstown_bus-d119371598ac5d8f.rmeta: C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crosstown_bus-0.5.0\src\lib.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crosstown_bus-0.5.0\src\tools\mod.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crosstown_bus-0.5.0\src\tools\helpers.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crosstown_bus-0.5.0\src\queue_bus.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crosstown_bus-0.5.0\src\message_handler.rs
+
+C:\Users\naren\sem4\tutorial8\tutorial8\publisher\target\debug\deps\crosstown_bus-d119371598ac5d8f.d: C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crosstown_bus-0.5.0\src\lib.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crosstown_bus-0.5.0\src\tools\mod.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crosstown_bus-0.5.0\src\tools\helpers.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crosstown_bus-0.5.0\src\queue_bus.rs C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crosstown_bus-0.5.0\src\message_handler.rs
+
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crosstown_bus-0.5.0\src\lib.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crosstown_bus-0.5.0\src\tools\mod.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crosstown_bus-0.5.0\src\tools\helpers.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crosstown_bus-0.5.0\src\queue_bus.rs:
+C:\Users\naren\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crosstown_bus-0.5.0\src\message_handler.rs:
