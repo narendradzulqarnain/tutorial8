@@ -21,3 +21,6 @@ Terminal di kanan adalah *publisher* dan di kiri adalah *subscriber*. Ketika dij
 
 ![alt text](image-2.png)
 Ketika dijalankan `cargo run` pada publisher, publisher akan mengirimkan message. Chart kedua menunjukkan *message rate* sehingga ketika publisher mengirimkan message akan terbaca dan ditampilkan pada chart.
+
+![alt text](image-3.png)
+Karena subscriber memproses dengan lambat, event-event yang dikirimkan ditaruh diantrian terlebih dahulu. Saya menjalankan `cargo run` sebanyak 5 kali, sehingga ada 25 event yang dikirimkan. Chart Queued message menunjukkan angka sekitar 16, artinya sebanyak 16 event ditaruh pada antrian dan menunggu untuk diproses oleh subscriber.
