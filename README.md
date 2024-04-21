@@ -24,3 +24,10 @@ Ketika dijalankan `cargo run` pada publisher, publisher akan mengirimkan message
 
 ![alt text](image-3.png)
 Karena subscriber memproses dengan lambat, event-event yang dikirimkan ditaruh diantrian terlebih dahulu. Saya menjalankan `cargo run` sebanyak 5 kali, sehingga ada 25 event yang dikirimkan. Chart Queued message menunjukkan angka sekitar 16, artinya sebanyak 16 event ditaruh pada antrian dan menunggu untuk diproses oleh subscriber.
+
+![alt text](image-5.png)
+Dengan menjalankan subscriber pada 3 console berbeda, ketika publisher mengirimkan event, pemrosesan event oleh subscriber dibagi pada ketiga console.
+![alt text](image-4.png)
+Spike pada chart queued messages juga berkurang lebih cepat dibandingkan sebelumnya. Hal ini disebabkan oleh ketiga program subscriber yang dapat memproses event secara paralel. Oleh karena itu, message yang ada pada antrian juga dapat diproses lebih cepat.  
+
+Salah satu hal yang dapat ditingkatkan pada program adalah *error handling*. Contohnya, pada `main.rs` subscriber dapat ditambahkan *error handling* untuk `unwrap()` yang dapat menyebabkan program *panic* jika terjadi error.
