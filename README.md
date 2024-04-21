@@ -15,3 +15,6 @@ program, what does it mean?
 Kedua program akan terhubung ke AMQP yang sama.
 
 ![alt text](image.png)
+
+![alt text](image-1.png)
+Terminal di kanan adalah *publisher* dan di kiri adalah *subscriber*. Ketika dijalankan `cargo run` pada *publisher*, program mengirimkan 5 event ke *message broker* lalu diproses oleh *subscriber*.
